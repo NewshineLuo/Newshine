@@ -1,1 +1,2 @@
-# Newshine
+论文格式转换器是一款离线 Windows 工具，用于按期刊模板整理 Word 论文手稿。输入一份 .docx 手稿和一份期刊模板（Word、PDF、LaTeX 或已保存的期刊配置），即可审核并调整识别出的段落角色和排版规则。软件输出一份可继续编辑的 .docx 和一份转换报告，列出已应用的规则和待人工确认的项目。手稿和模板全程在本机处理。
+Manuscript Formatter is an offline Windows tool for formatting Word manuscripts to match journal templates. It takes a .docx manuscript and a journal template in Word, PDF, or LaTeX format, or a previously saved journal profile. You can review and adjust the detected paragraph roles and formatting rules before exporting. The tool produces an editable .docx and a conversion report listing the rules applied and any items that need manual review. All files are processed locally.
